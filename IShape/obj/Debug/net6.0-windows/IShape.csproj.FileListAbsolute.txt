@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\IShape\IShape\bin\Debug\net6.0-windows\IShape.exe
+C:\Users\User\source\repos\IShape\IShape\bin\Debug\net6.0-windows\IShape.deps.json
+C:\Users\User\source\repos\IShape\IShape\bin\Debug\net6.0-windows\IShape.runtimeconfig.json
+C:\Users\User\source\repos\IShape\IShape\bin\Debug\net6.0-windows\IShape.dll
+C:\Users\User\source\repos\IShape\IShape\bin\Debug\net6.0-windows\IShape.pdb
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.Form1.resources
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.csproj.GenerateResource.cache
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.AssemblyInfo.cs
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.dll
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\refint\IShape.dll
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.pdb
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\IShape.genruntimeconfig.cache
+C:\Users\User\source\repos\IShape\IShape\obj\Debug\net6.0-windows\ref\IShape.dll
